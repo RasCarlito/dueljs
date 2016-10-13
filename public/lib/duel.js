@@ -24,7 +24,7 @@
     // Browser globals
     root.duel = factory(root);
   }
-}(this, function (window) {
+}(window, function (window) {
   var duel = {};
 
   /**
